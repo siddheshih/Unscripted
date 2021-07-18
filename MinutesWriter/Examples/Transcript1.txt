@@ -1,0 +1,1156 @@
+Transcript
+
+
+20:11:25 - You:
+  
+Now, I think it will record the transcripts for me. Let me just quickly confirm. John, nobody, okay. Cool then. So on. Let me also start the recording. Only screen system was like, starting. Okay, cool. So Yeah. Okay, let me share my screen. You guys can hear me, right?
+
+
+20:12:17 - Harshit Modi:
+  
+ You? Yes, yes, we can hear in. The screen is also available.
+
+
+20:12:20 - Hiren Bavaskar:
+  
+ If we can hear.
+
+
+20:12:21 - You:
+  
+ Did you get this communication from the wncc about the Yes or no, guys.
+
+
+20:12:33 - Hiren Bavaskar:
+  
+ and no like this, document document wasn't circulated
+
+
+20:12:38 - You:
+  
+ Okay, cool. So we will share the links with you. So basically as you can see, the deadline for us is 18 for you guys. It's true. There are two submissions. The first one is 18th and the other one is 21. The basic difference is this is a so if you just open this form and see what all you guys have to submit,
+
+
+20:13:12 - You:
+  
+Okay, so everything else you guys already know? You can fill accordingly. The one thing is the GitHub, they're pulling, so they're expecting everything to be somebody and GitHub repo and other than that. They're also expecting stuff to be submitted in this, so I think this is one common link for all all of you in which you have to give one documentation report and one video link. So I'm guessing these two things are something that we can discuss in the 18th command. So next Sunday we can have one more minute in which we can prepare. So to any force is a deadline for this right. When he first, we can have three days in which we can prepare, what all documentation we are going to prepare, and the video also, Um and then we get some medicine to anyone, but by 18th, which is next Sunday, you have to submit this form and you need to submit a GitHub repo link. So what we'll do for this is we create on We create maybe one combined GitHub repo or maybe three different GitHub Repose for the three projects we have. And accordingly so they should do that. He's going to do that for other project. Also he'll send you invites and what you can do is let's write the somewhere. um, let's write it in the chart for the moment. So you guys have to just have documentation here, the documentation file that you have complete that Sorry, what is the current status for you guys? Can you just quickly unmute and tell me if the report is updated or not?
+
+
+20:14:45 - Harshit Modi:
+  
+ So, like mine is of the progress. Report is updated.
+
+
+20:14:50 - Hiren Bavaskar:
+  
+ Yeah, mine as well. This updated still first week of July almost
+
+
+20:14:57 - Aayush M Gopal:
+  
+ I have also updated the report yeah,
+
+
+20:14:57 - You:
+  
+ I wish.
+
+
+20:14:59 - Aayush M Gopal:
+  
+Yeah, till I have I guess, like yesterday, I updated all the things.
+
+
+20:15:04 - You:
+  
+That's a great. So I think by 1790, even if it's if something is left complete everything by 17th night, keep this like a bigger objective for this week and this documentation is not just for wency easy people for us. Also it will help us because as you can see in our form they have asked us to grade them entities and come and basically decide how much work people have put in. So the report will tell us, I mean we definitely know with which of you were active doing that duration. But the reports is also going to be very helpful and even bigger purpose for you guys because I think you guys will forget what you have done over this summer. Okay. This particular project maybe in one or two years, right? But mostly you will like to use your learning otherwise it's not really useful in the long term rate you kind of have wasted your time if you don't document what you want. So, whatever you have learned just right there as I mentioned earlier. For example, if you learned a good algorithm from Portugal blog, just mentioned you have learned. This, this is the link. And if there are any comments there, maybe I had one, two lines there, so whatever you can do, make just a properly, formatted document. And for each GitHub repo, you can upload a document in the format that we discuss which is name of the project underscore your name. And on the same folder we can upload the code also. Now for the code, what we can do is for the three projects I think I think we need to open a Google do that.
+
+
+20:17:09 - You:
+  
+ so, the first thing that you guys Learned was basics of,
+
+
+20:17:32 - You:
+  
+ Just help me fill this, guys. All right, Python and pandas was the first thing right after that there was basic of ml.
+
+
+20:17:36 - Harshit Modi:
+  
+ Yes.
+
+
+20:17:37 - You:
+  
+ What else?
+
+
+20:17:39 - Harshit Modi:
+  
+ basics of ML, and Like after this we jumped on to our main. So you also and as shared with us
+
+
+20:17:48 - Hiren Bavaskar:
+  
+ Speech to Text Speech To X libraries,
+
+
+20:17:50 - Harshit Modi:
+  
+ some
+
+
+20:17:50 - Hiren Bavaskar:
+  
+ open source, libraries
+
+
+20:17:53 - Harshit Modi:
+  
+ You also, you know, shared with us
+
+
+20:17:53 - You:
+  
+ okay, if anything
+
+
+20:17:55 - Harshit Modi:
+  
+and NLP are related stuff so that you know interested people could just look into and NLP stuff so that, you know, interested people could just look into it.
+
+
+20:18:06 - You:
+  
+ Mmm. Okay. This is cold work rate, you get text to. I mean, you guys have already put in somewhere basics of NLP. It's on the other part. First the what was the next step speech to text directly? Or was it something in the middle also?
+
+
+20:18:33 - Harshit Modi:
+  
+ Initially we were on to this team, you know, I was given the task to find out about which topic to be chosen and others were doing this space to text.
+
+
+20:18:44 - Hiren Bavaskar:
+  
+ It was Speech to Text.
+
+
+20:18:45 - Harshit Modi:
+  
+ Yes.
+
+
+20:18:45 - Hiren Bavaskar:
+  
+ Yeah, it was featured.
+
+
+20:18:45 - Harshit Modi:
+  
+So it was going So it was going parallel yet. Yes.
+
+
+20:18:51 - You:
+  
+Um, but research. See, you did to the research that you did harshit. I think that was not relevant from code perspective rate, this is just which, what code we have to add. So your research will add the documentation but code, maybe we
+
+
+20:19:03 - Harshit Modi:
+  
+ Okay, yes. Yes.
+
+
+20:19:06 - You:
+  
+ really can't add something.
+
+
+20:19:09 - Harshit Modi:
+  
+ Yeah.
+
+
+20:19:11 - You:
+  
+ Different. Most. This is one thing. Other than that. After that, I think divided the
+
+
+20:19:25 - Harshit Modi:
+  
+ then after after this we also found
+
+
+20:19:26 - You:
+  
+ project, right?
+
+
+20:19:28 - Hiren Bavaskar:
+  
+ might, you know, after it Matrix used for calculating word, error rates like blue school and
+
+
+20:19:37 - You:
+  
+But that also, I think. Vehicle. So this is all of this is What? Now for different teams. Let's I mean, I'm not feeling this because teams know what their work was. Let's say team one, Let's begin with this rate of. Can we begin with your? Can you bring me to speed, harshit and hidden? What all you have done in your project start from scratch? I think I was not in the last minute, so I don't remember that. So, start from scratch, what all things you have done for your project and also maybe explain your goals for the next seven days, because we have only seven days left.
+
+
+20:20:24 - Harshit Modi:
+  
+Will select hidden add if I miss something. So initially, we had this target to complete the hugging phase course, and to, you know, learn about Transformers and pipelines and various other libraries, including fine tuning and free training models, how they work, how they do, they don't, then find some databases regarding it. So this was our first week's Target. Then in the last of, maybe this week we decided to make some courses code to You know, convert the speech to text efficiently in which we took help of Neil, 11, Ash's teams and all. So to work upon any, our model on how we can use it and year model for and find unit using some databases available data sets available on the internet. So that we could, you know, efficiently use it for Indian origins or maybe some accent related to India. so, I guess this was it. Maybe I missed something in.
+
+
+20:21:35 - Hiren Bavaskar:
+  
+Yeah, like we were told to also test the wave to back to model because sidesha told that it was much more efficient. Yeah. the wave to back to model because sidesha told that it was much more efficient. but we had tested it both on a normal data set as well as our own voice, but it still was give giving give the rich output. So we discarded that and also we we had to find some good data sets for speech to text as well as summer documents, summarizations, which we have updated in our progress reports.
+
+
+20:22:17 - You:
+  
+Um Is tag summarization common to all three things. I think, yes, right now, let's not write summarization but text processing Maybe. um, I but here in harshit you I think mentioned only sorry, sorry. I think I missed the text processing. Sorry. What was the last thing you mentioned here in text processing me?
+
+
+20:22:37 - Hiren Bavaskar:
+  
+ a finding good data sets for speech to text and Raw text like a big news articles to their corresponding summaries, we found some CSS file data sets for them.
+
+
+20:22:53 - Harshit Modi:
+  
+ And also for any are three data sets to be found? Don't in total. So one was for speech to test one was for ner model and the last one was for this summarization.
+
+
+20:23:04 - You:
+  
+ um, Well, you mean data sets here found for these Stars.
+
+
+20:23:12 - Hiren Bavaskar:
+  
+ For fine tuning, the pre-trained model.
+
+
+20:23:14 - Harshit Modi:
+  
+ Yes.
+
+
+20:23:15 - You:
+  
+ What is the period model here?
+
+
+20:23:19 - Hiren Bavaskar:
+  
+ The Google Website.
+
+
+20:23:19 - You:
+  
+ For. Taking it down the task, right? So learning and resourcing, although you have already done. Well, let's discuss HTTP stdma. Um, you said your fine tuning, the Google speech cover, right? So, have you already done that? Or you are going to do it now?
+
+
+20:23:38 - Hiren Bavaskar:
+  
+Oh no. Going to do because we were told to find data sets for summarization and speech to text for fine tuning, and also like testing the wave to back model on our own ways, but we did that all. But that last thing was not for use, not in use, so we had to use for Google app switch, GPS.
+
+
+20:24:00 - You:
+  
+ Okay, so have you found some data
+
+
+20:24:02 - Hiren Bavaskar:
+  
+ Yeah, yeah, I have fun.
+
+
+20:24:02 - You:
+  
+ data set for this? You know how to find you in the model, right?
+
+
+20:24:08 - Hiren Bavaskar:
+  
+ yeah, there is some cool there is code available on Google or else if we have any doubts will ask
+
+
+20:24:15 - You:
+  
+ How did you complete the organ fares course?
+
+
+20:24:17 - Hiren Bavaskar:
+  
+ Yeah. Yeah we did that last week.
+
+
+20:24:21 - You:
+  
+ But they have mentioned explicitly, right? How to find you in a model? So, I'm guessing you guys are
+
+
+20:24:24 - Hiren Bavaskar:
+  
+ Yeah, so that's yeah.
+
+
+20:24:25 - You:
+  
+ familiar.
+
+
+20:24:25 - Harshit Modi:
+  
+ This guy.
+
+
+20:24:27 - Hiren Bavaskar:
+  
+That's what that's where the code is.
+
+
+20:24:29 - You:
+  
+ Okay, cool. So I'm guessing please. Should text part is done now now about Text Plus processing so whether this is journalism, right?
+
+
+20:24:38 - Harshit Modi:
+  
+ Oh yes.
+
+
+20:24:39 - Hiren Bavaskar:
+  
+ Yes. Yeah.
+
+
+20:24:41 - You:
+  
+ Yeah, on support text processing. What you guys are doing next.
+
+
+20:24:46 - Harshit Modi:
+  
+ so,
+
+
+20:24:47 - Hiren Bavaskar:
+  
+ So yeah.
+
+
+20:24:48 - You:
+  
+Thank you, sorry. Like sorry, but exposing I mean, converting the transcripts to to articles, proper journalism articles, are you doing something for that?
+
+
+20:24:59 - Hiren Bavaskar:
+  
+I would like to say something like articles news articles or also big enough, right? So like calling them articles would be a little number of years because what we are doing by summarizing is that taking out key sentences from the text from the transcript, So basically, it's summarization only like, what data set we have found is for news articles to importance summarization, because there is no data sets. Like, I couldn't find any data set for some big text to articles. That's what I would like to point you.
+
+
+20:25:45 - You:
+  
+ I couldn't understand the rain properly. Are you saying basically are use cases? Very simple that we will convert the
+
+
+20:25:51 - Hiren Bavaskar:
+  
+ Like hmm.
+
+
+20:25:52 - You:
+  
+ transcript to On to some by article. I meant some kind of blog something that the journalist typically, right? Right, just yeah.
+
+
+20:26:00 - Hiren Bavaskar:
+  
+Yeah, yes. Okay. Yeah. So If I can okay, maybe I can share this real later to verify, they are correct. Because you are sharing it now and you're also recording, right?
+
+
+20:26:18 - You:
+  
+ I think you can share your ticket. Let's do it later, then. So what are you saying?
+
+
+20:26:22 - Hiren Bavaskar:
+  
+ I have also shared the links where I found them. So in my progress reports,
+
+
+20:26:29 - Harshit Modi:
+  
+ I guess screen sharing doesn't really affect this screen recording, maybe if you didn't share.
+
+
+20:26:35 - You:
+  
+ He doesn't. But yeah, let's do that later. Just tell me what you guys have done until now you have you have found the data or not.
+
+
+20:26:46 - Hiren Bavaskar:
+  
+ Here we have.
+
+
+20:26:46 - Harshit Modi:
+  
+ Yes, we have.
+
+
+20:26:49 - You:
+  
+ But what is the pretend model here? How are you going to use the data set?
+
+
+20:26:59 - Hiren Bavaskar:
+  
+ We are thinking of using barter gp3 model.
+
+
+20:27:03 - You:
+  
+ Gp3 is not publicly are available.
+
+
+20:27:11 - Hiren Bavaskar:
+  
+ Actually the like coding part for this is not done because it wasn't like we were told to do this, the about things and we are planning to do the coding part for this week. Only the data set part, and also we record busy. So we couldn't code the Text processing parts.
+
+
+20:27:36 - You:
+  
+In that case we'll discuss our data set after the, which you can find tune, whatever model you have narrowed down to. And basically you know your tasks you have to just do the HTTP STD coding and text processing coding. Basically both for both of them, you're going to use of pre-trained model, fine. Tune it, according to the data sets, we have found for this week. But again this reminding you that the deadline is 18, so you'll have to complete the coding.
+
+
+20:28:00 - Hiren Bavaskar:
+  
+ Yes, yes. Yeah.
+
+
+20:28:02 - Harshit Modi:
+  
+ yeah, like we do have some snippet of the court, so maybe by this week will be able to complete both the task
+
+
+20:28:10 - Hiren Bavaskar:
+  
+ Yeah, by mid week with try to
+
+
+20:28:10 - You:
+  
+ Right. Okay.
+
+
+20:28:13 - Hiren Bavaskar:
+  
+ complete it.
+
+
+20:28:15 - You:
+  
+ Okay, cool then. So in that case, let's quickly it's on, get done with ayushes fork and then we will I stop the recording. Let you share and we can discuss today ones. I wish we can give your update.
+
+
+20:28:30 - Aayush M Gopal:
+  
+ Yeah, hello. Am I Audible?
+
+
+20:28:33 - You:
+  
+ Yeah.
+
+
+20:28:34 - Aayush M Gopal:
+  
+Yeah, so of like from the last minute that we had, I have found some data set that I like MIT, ocw lecture. There were some the notes were present. And another data set that I found is we can collect that from all spiritual lecture. The website is there, I don't think that's that much relevant. But still, if we can take it from there, one more thing. Like if you are going to MIT ocw lectures and their notes, their notes are actually very whatever would say. There are so many pictures and all that very difficult to take the date out from it. So yeah, I was just confused with that. So I have done this and further as you said to like, find how much data is sufficient. So I found a research paper where they are mentioned, how much data they have taken.
+
+
+20:29:35 - You:
+  
+I use couple of things first is on again, the format for you also the same for STD. I would recommend don't spend time on fine tuning now because again you have only one week otherwise, what you can do is For fine tuning, I I mean, just okay maybe take care from here in harshit after after they are done with their fine tuning because I'm guessing for you, I use the data set will be easily available. You just want audio lectures and then they're transcript rate. So your data set will be for example, that David discuss udemy, right udemy the audio and the text are available. So I think for you it will be easier. So after hearing and
+
+
+20:30:15 - Aayush M Gopal:
+  
+Actually. Yeah. Actually the problem is the lecture available and also the transcript but a notes are not available. That's the main problem and I have searched it on udemy, kosher addicts. It's present nowhere. So that's the main problem.
+
+
+20:30:28 - You:
+  
+ Yeah, let's get to that later.
+
+
+20:30:29 - Aayush M Gopal:
+  
+ I can't find. Yeah.
+
+
+20:30:31 - You:
+  
+ There are three steps first is audio to transcript and then transcript two nodes ABM are discussing note. What you do this? I'm audible, right?
+
+
+20:30:42 - Aayush M Gopal:
+  
+Okay. Yeah, I was discussing about like notes to like a noise for the summarized version. I will discussing for that. I was, I'm not doing that. I'm the educated. I'm directly taking the model. I would ask Neila for that and I
+
+
+20:30:56 - You:
+  
+ so,
+
+
+20:30:56 - Aayush M Gopal:
+  
+ would take himself in that you
+
+
+20:30:59 - You:
+  
+I understand seeing that, the first step is to take the audio, you convert that to a transcript. You take the transcript and you convert that to note. We said that for audio to transcript, you can take directly some pre-trained model liquid directly. You can take some leave library. But what I'm saying is as the second priority you can Take up the task of fine tuning that model, based on some data set. So, a BM discussing this particular step.
+
+
+20:31:27 - Aayush M Gopal:
+  
+ Yeah, two can to find it asset for transcript to notes conversion, right?
+
+
+20:31:32 - You:
+  
+ No, no. The hang on.
+
+
+20:31:44 - You:
+  
+ Do you follow this order?
+
+
+20:31:45 - Harshit Modi:
+  
+ I guess I needed this talk.
+
+
+20:31:46 - Aayush M Gopal:
+  
+ Yeah, so I guess audio to transcript is already done, I have to do for
+
+
+20:31:48 - You:
+  
+ Yeah. I'm not.
+
+
+20:31:51 - Aayush M Gopal:
+  
+I have transcript to notes.
+
+
+20:31:52 - You:
+  
+You know. No, just wait, right? So this part, I'm not discussing at the moment, I'm just discussing audio transcript, I'm saying, you can use do this by using Google Speech APA, some other API also, but if you can find unit using some data set, it might give better results. Do you follow?
+
+
+20:32:11 - Aayush M Gopal:
+  
+ Yeah, yeah. I follow
+
+
+20:32:13 - You:
+  
+Yeah. So in that case, what I'm saying is don't spend time on this directly let harshad and hearing because they are going to work on fine-tuning a Model first. So once they're done with it, you can you can discuss with them. How did they go about this particular process for you? I think fine, tuning won't be very difficult, considering the data set for this audio transcript will be more easily available. For lecture for for online videos for online tutorials. So in that case me, think that data
+
+
+20:32:42 - Aayush M Gopal:
+  
+ Yeah.
+
+
+20:32:45 - You:
+  
+set find you in according to how the they have done and keep this as a second priority, that is what I'm saying. I get to transcript to two notes but also consider doing this that we are able to you know fine-tune this process also At this moment, we are not for when the a lot we are focusing on like making a prototype. Even if the accuracy is not a lot, we can fix that later. We can have better models. We can have, we can spend more time, fine, tuning. But for now, we want to establish the pipeline which is making a prototype. You can improve the accuracy going forward.
+
+
+20:33:21 - Aayush M Gopal:
+  
+ So you said audio transcript to the
+
+
+20:33:22 - You:
+  
+ The Sun.
+
+
+20:33:23 - Aayush M Gopal:
+  
+ second parity, right? Like
+
+
+20:33:28 - You:
+  
+ Yes.
+
+
+20:33:29 - Aayush M Gopal:
+  
+ Yeah. So I was telling that only like transcript to notes I guess is the first priority so ever, discussing about that only.
+
+
+20:33:35 - You:
+  
+Yeah, yeah. So I'm saying that we get to that. But do you understand this part that keep this in mind you done with this Yeah. Yeah. But do you understand this part that keep this in mind you done with this Yeah. Yeah. So I'm saying that we get to that. But do you understand this part that
+
+
+20:33:40 - Aayush M Gopal:
+  
+ Yeah, yeah. I gonna
+
+
+20:33:42 - You:
+  
+You done with this keep this in mind you done with this because we won't make a meet again until next Sunday. Right? And that's the keep this in mind you done with this because we won't make a meet again until next Sunday. Right? And that's the deadlines. I'm just telling you after you done with transcript notes, which is the first priority try this also.
+
+
+20:33:51 - Aayush M Gopal:
+  
+ Yeah.
+
+
+20:33:53 - You:
+  
+ Now we can discuss transcript to notes. So transcript to Notes mail. It's discuss. You can see your screen. So your data set but before that, let's later, he didn't share and let him show the data set.
+
+
+20:34:07 - Aayush M Gopal:
+  
+ Okay.
+
+
+20:34:12 - Hiren Bavaskar:
+  
+ Yeah, share my skin.
+
+
+20:34:12 - You:
+  
+ You know.
+
+
+20:35:15 - Harshit Modi:
+  
+ you are on mute here, and if you are seeing
+
+
+20:35:25 - Hiren Bavaskar:
+  
+Oh, sorry. Yeah. Yeah. so, Firstly date headlines, then. The original link and the text. Are text for the Articles news articles. And then the corresponding summary, although it's like a bit. Clustered in here because it isn't able to read. But I think with using pandas and all we can like properly formatted
+
+
+20:36:08 - You:
+  
+ So, you're saying it is.
+
+
+20:36:10 - Hiren Bavaskar:
+  
+ if found it on a kaggle here. Yeah, this thing.
+
+
+20:36:14 - You:
+  
+ Yeah but your data set is basically you take a news article and your new get it summary, but do you think that's a case of B?
+
+
+20:36:20 - Hiren Bavaskar:
+  
+ Yeah. that would be for summarization because transcript is most likely love around, only around like an article only For journalism. because,
+
+
+20:36:37 - You:
+  
+It's not right. In your case you're not doing summarization at all. Your problem statement is very different. You are taking a transcript which can be A long text of anything, it can be something, which is, you know, the journalist journalist might say something, which is not even relevant alert. You have to take all that unstructured data and put it into an article into a formal article. So that's your objective. You don't have to summarize it.
+
+
+20:37:05 - Hiren Bavaskar:
+  
+ but,
+
+
+20:37:06 - You:
+  
+ But maybe you can so I'm not very
+
+
+20:37:06 - Hiren Bavaskar:
+  
+ A bit like I searched it.
+
+
+20:37:08 - You:
+  
+ sure.
+
+
+20:37:09 - Hiren Bavaskar:
+  
+ I searched it like but as that type of data set is like, very hard to get because I searched it and I said for speech to articles, there are rarely any data sets.
+
+
+20:37:24 - You:
+  
+See one thing I will I think you guys should do is first. Create your own data point, which is take your mobile record, maybe 20 minutes of Audio of you describing so assume you are a journalist, you have, you have gone to. I'll just take any situation, you have gone to some place and you're reporting stuff. Think how journalists would think whatever you see. For example, you go there and from far distance, you can see that there are a lot of buses. So just say that into the microphone, then go just, you'll have to be creative and imagine a situation and record something there and see it's output. Otherwise you won't never know how this model is performing, right? So and you already have the space to
+
+
+20:38:03 - Hiren Bavaskar:
+  
+ Yeah.
+
+
+20:38:05 - You:
+  
+text, just whatever or do you record? Let the model transcribe. It take the transcription, let it summarize, okay, fine. The model that you have found like find unit. Fine tune, your retained model according to it and then try it on your data point. The this one data point that I just described so and see how that is performing. So based on that you will understand.
+
+
+20:38:28 - Hiren Bavaskar:
+  
+ Find a fine tune on our data on our voice.
+
+
+20:38:34 - You:
+  
+ No, no.
+
+
+20:38:35 - Hiren Bavaskar:
+  
+ Our conversation.
+
+
+20:38:35 - You:
+  
+You that is very less, right? No, no, you can't find tune on that because that's very less. That's like one data point, right? You can't create a lot of it. I'm saying fine tune on this. The one thing that you're showing on your screen, fine, tune the song summarizer on this and try your model
+
+
+20:38:49 - Hiren Bavaskar:
+  
+ Okay.
+
+
+20:38:52 - You:
+  
+model, your model which is speech to text and then take summarizer on one data point that you create manually because I'm guessing you can't find any other data point for journalism rate. Could you find anything?
+
+
+20:39:04 - Hiren Bavaskar:
+  
+ No, no.
+
+
+20:39:05 - You:
+  
+ Um, yeah, so great.
+
+
+20:39:05 - Hiren Bavaskar:
+  
+ I tried, but I didn't find any. Like or even on kaggle, there are very few.
+
+
+20:39:13 - You:
+  
+Cool. So tkml back and understand journalism related son likely because the use cases very narrow and I don't think so anything. Anyone else has been working on something, similar a bitter. So in that case, you guys can So basically that's your objective right? You know what your what Your objective are you have to find you in speech to text, you have to find Tune Tech summarizer and then try it on your on the data point that you create. Now we can all hope that it works at least fair, at least, you know? So that it's something readable. It's not proper garbage. That the ending output, the ending summarization that you get, we can just hope it's not complete garbage. Could be random foods and numbers for crack ideas and
+
+
+20:39:56 - Hiren Bavaskar:
+  
+ But Google. Google web search apis, like, really good because we tested it on various audios also and it was going giving better outputs, not garbage.
+
+
+20:40:09 - You:
+  
+ so,
+
+
+20:40:10 - Hiren Bavaskar:
+  
+ Like
+
+
+20:40:10 - You:
+  
+ you know, so
+
+
+20:40:12 - Hiren Bavaskar:
+  
+ But one find out like does
+
+
+20:40:13 - You:
+  
+ try it.
+
+
+20:40:16 - Hiren Bavaskar:
+  
+ fine-tuning, take a lot of time because I haven't tried it before.
+
+
+20:40:24 - You:
+  
+ You I think you can answer that better, right? You completed the hugging face course I haven't.
+
+
+20:40:28 - Hiren Bavaskar:
+  
+ But like the time, how much time it takes, it doesn't tell, but it tells the efficiency.
+
+
+20:40:36 - You:
+  
+ I'm not sure it's not.
+
+
+20:40:36 - Hiren Bavaskar:
+  
+ Okay, I'll search it up on. knew about it. Okay, I just wanted to ask if you It's fine.
+
+
+20:40:42 - You:
+  
+ A lot of time, I think it won't take
+
+
+20:40:42 - Hiren Bavaskar:
+  
+ I'll search it.
+
+
+20:40:44 - You:
+  
+ more than 30 minutes.
+
+
+20:40:46 - Hiren Bavaskar:
+  
+ Okay.
+
+
+20:40:47 - You:
+  
+ If even if you're running in collab, so we are to not take a lot of time.
+
+
+20:40:50 - Hiren Bavaskar:
+  
+ Okay.
+
+
+20:40:51 - You:
+  
+You can easily have multiple iterations of fine tuning. So yeah, these are three tasks if you're output, is something not useful. See let's say use. You're saying Google speech to text is good. If you convert if the transcript The second part converting a transcription to article, if you let's say, say anything random and the transcription. Well, let's let's assume it is working properly. It is transcribing everything to accuracy of 100% the text that you get, You have to convert that to an article, right? Because summarizer will probably not understand what an article is on. Just an example, for example. So let's take this Let's say I have to describe an event. I don't know what's the exact order of the event, right? I can first maybe see something, and I will talk about that, and but when I'm writing the article, it's more structured that I first established some context. You why this happened? What happened? Kya Hora. Hey. And then, I the start describing situation, but when you are saying
+
+
+20:41:59 - Hiren Bavaskar:
+  
+ me, but rather than summarizer, shouldn't be use a language model
+
+
+20:41:59 - You:
+  
+ things,
+
+
+20:42:03 - Hiren Bavaskar:
+  
+be use a be use a language model, then like, For correcting, the text grammatically and for structuring it so that it is much more readable. Because summarizer, then what's the whole point, like, extracted in extractive summarization? Also, you take only few of the sentences as it is.
+
+
+20:42:31 - You:
+  
+um, Honest, I'm not sure. I'm so my assumption was key. Summarizers will basically work as a language model in the sense that they will remove, all the garbage in the middle. They will only keep like, pull the point sentences and I'm guessing the summary that if you're training it on this data, it is basically grammatical sentences, right? So I'm guessing the summarizer should also. Brady was grammatically, correct and sentences.
+
+
+20:42:57 - Harshit Modi:
+  
+See, I have a suggestion you can probably, you know, set up a pipeline in such a way that whatever journalist records convert it, into the text. And then using an extractive method just pick up some important lines out of whatever is transcribed and then use once again an abstractive method, a b extractive method to, you know, Get a more better version of grammar of that extracted summary. So like probably we can use both the summarization method and ultimately come up to a better version of the article.
+
+
+20:43:37 - You:
+  
+ Yeah, again time. See to bonus. I'm not very sure how this will have to work. This will work. You will and you will only without
+
+
+20:43:42 - Hiren Bavaskar:
+  
+ oh, but like
+
+
+20:43:43 - You:
+  
+ using experiments.
+
+
+20:43:44 - Hiren Bavaskar:
+  
+ It okay.
+
+
+20:43:44 - You:
+  
+ This
+
+
+20:43:46 - Hiren Bavaskar:
+  
+ okay, like
+
+
+20:43:46 - You:
+  
+ which is basically if you have the
+
+
+20:43:47 - Hiren Bavaskar:
+  
+ we should use this data set because
+
+
+20:43:47 - You:
+  
+ transcription who's
+
+
+20:43:50 - Hiren Bavaskar:
+  
+ I try to find some more big.
+
+
+20:43:52 - You:
+  
+ Sorry.
+
+
+20:43:54 - Hiren Bavaskar:
+  
+ Amountable.
+
+
+20:43:56 - You:
+  
+ Yeah, go ahead.
+
+
+20:43:56 - Hiren Bavaskar:
+  
+Hello, yeah. So we'll try to find unit on this on this data set. Fine, tune, the summarizer model all. So I'll try to find some more if I find any And then we'll cross it.
+
+
+20:44:14 - You:
+  
+ Yeah, and I think, before you begin with fine-tuning, try with the, the model by default. If it's actually giving good
+
+
+20:44:21 - Hiren Bavaskar:
+  
+ Oh yes.
+
+
+20:44:22 - You:
+  
+activities, activities, there is no need to fine. Tune it. Right? And you should always know the Baseline. For example, let's say, without fine-tuning, you get some result after finding you got the same result, then you know, there is something wrong with the fine tuning. So, just try with that and maybe report it first on the group, don't wait, by the way, this is for all of you. Don't wait till the end of the week to give updates. Please keep on updating for this week. This is the last week, and if there's any suggestion, we will be able to collect in the middle. If you tell us skating for this phone to work, that will be the final work you have done for the project, so we won't have any time to fix it after that. So yeah, I mean, you'll have to conduct experiments that what I said, that's what I meant by that after you draw summarize or transcription we should we are hopeful that it will work. If it doesn't the only solution is we do some more experiments. We see why it is not working and we conduct more experiments so it would be good if you can complete this by it's in the middle of the week so that we will have like three or four more days, you know, try something else. Your point is fair, which is But I even using a summarizer, but I'm not sure if we can use something else here. Ideally, what we can do is maybe we can take some keywords and then ask the Ask user generative model like gpt2 and ask it to write the article for you. Well, basically take the keywords and then it will write the article for you instead of summarizing it that
+
+
+20:45:42 - Hiren Bavaskar:
+  
+ oh,
+
+
+20:45:44 - You:
+  
+ might be a better approach, but I think it will in order to steps and you will have to spend more time. So first, let's quickly get done with this. If it is not working, maybe we can try something else.
+
+
+20:45:54 - Hiren Bavaskar:
+  
+ Okay.
+
+
+20:45:57 - Harshit Modi:
+  
+ And like I also wanted to know about
+
+
+20:45:57 - Hiren Bavaskar:
+  
+ Yeah.
+
+
+20:46:00 - Harshit Modi:
+  
+ a data set which I found about this any Year, I'll share my screen.
+
+
+20:46:06 - You:
+  
+ Yeah.
+
+
+20:46:12 - Hiren Bavaskar:
+  
+ like the idea of taking keywords is basically any are only like
+
+
+20:46:19 - Harshit Modi:
+  
+ so,
+
+
+20:46:19 - Hiren Bavaskar:
+  
+ tagging tagging specific words as important and then maybe taking the sentences involving those words into our Article.
+
+
+20:46:33 - You:
+  
+ Right.
+
+
+20:46:35 - Harshit Modi:
+  
+ or otherwise, like, if not,
+
+
+20:46:36 - You:
+  
+ Yes.
+
+
+20:46:38 - Harshit Modi:
+  
+ if Enya is not to be followed, then maybe we can, you know, use that tfidf score. To get important words. Maybe.
+
+
+20:46:51 - You:
+  
+Yara again, time not so depends. I'm not sure if there's a fixed way to do it. What I would recommend is if you quickly can get done with STD. I mean to be honest, if you can't if you think will speed cheapest doing well on its own without fine-tuning, I would say, skip that step, go to directly summarize summarizing fine tune and after that, see how the results are. Just report them based on that we can take a call. The other thing is what this this is the any other thing which is you find keywords through any or maybe some other technique you can have, you can Google just keyword summarization technique and there are a lot of codes available that can give you the keywords from our, like, a long piece of text based on these things. You can send it to like a generator model which is gp2 is not publicly available at this point. So you can ask that model to write a story for you. So that is one thing, maybe you can try because you really people who have been using, they say it can write. Stories for you. Gbd2 also, I think can do fairly well. I mean, it's not like very different just that gp3 is like, much bigger in size, so GPT, too. Maybe you can give a short using this.
+
+
+20:48:04 - Harshit Modi:
+  
+ So, so like gpt3 is not publicly available so like, can we purchase it or do we have the pen with people hide?
+
+
+20:48:13 - You:
+  
+ No, it's not available by anywhere.
+
+
+20:48:13 - Harshit Modi:
+  
+ Something like that.
+
+
+20:48:16 - You:
+  
+ Even if you want to buy it. You have to join a waitlist I think and I'd if I don't think so we can
+
+
+20:48:21 - Hiren Bavaskar:
+  
+ be, we'll see for gp21 because I
+
+
+20:48:22 - You:
+  
+ purchase it. Yeah, unlikely.
+
+
+20:48:26 - Hiren Bavaskar:
+  
+ don't think we also have the time to
+
+
+20:48:26 - You:
+  
+ Yeah.
+
+
+20:48:27 - Hiren Bavaskar:
+  
+ do that.
+
+
+20:48:29 - You:
+  
+Right, you? Yeah we just optimize right now. You have to force focus on setting up a pipeline so that at the end of on 18 you have something to show like a demo because in the window you will have to show the demo. It is not a learning project and implementation project. So in the video if you don't have a demo to show it won't be. Right. Yeah we just optimize right now. You have to force focus on setting up a pipeline so that at the end of on 18 you have something to show like a demo because in the window you will have to show the demo. It is not a learning project and implementation project. So in the video if you don't have a demo to show it won't be. Right. You? Yeah we just optimize right now. You have to force focus on setting up a pipeline so that at the end of on 18 you have something to show like a demo because in the window you will have to show the demo. It is not a learning project and implementation project. So in the video if you don't have a demo to show it won't be. I mean it won't look like you. There is anything to print. There is anything that has been produced from the experiment. So first try to establish a by playing even if the results are not good at this point. It's fine. Then we focus on how we can reduce improve the results.
+
+
+20:49:03 - Hiren Bavaskar:
+  
+ Okay. Yeah.
+
+
+20:49:05 - Harshit Modi:
+  
+So I found this many data set which I thought could be relevant to any R. So one I found this OK Google in which you know these something related to any other are available. I filtered You know, I added this India as a filter in this. And then I found this tweets and, you know, some automobile telematics data base, some India based Indian based data sets. I just wanted to know these tweets and all will be a good Data set to fine. Tune, our model for ner.
+
+
+20:49:48 - You:
+  
+ Yet, I'm not sure to be honest, you'll have to, you will have to see what kind of data set the how the model Works actually. Can you show me your input output for any r model?
+
+
+20:50:01 - Harshit Modi:
+  
+ For our case or you know, this data set.
+
+
+20:50:04 - You:
+  
+ Any guess how does any?
+
+
+20:50:05 - Hiren Bavaskar:
+  
+ That's shown in the collab file collapse. Wave to that young.
+
+
+20:50:23 - Hiren Bavaskar:
+  
+ The above and not any are training.
+
+
+20:50:26 - Harshit Modi:
+  
+ Oh yes.
+
+
+20:50:27 - Hiren Bavaskar:
+  
+ This and you.
+
+
+20:50:58 - Harshit Modi:
+  
+ like for input and output input is some like, Pipeline Library, Transformer Library. and then,
+
+
+20:51:08 - Hiren Bavaskar:
+  
+ I'll share my screen. I have like the output also ready.
+
+
+20:51:14 - Harshit Modi:
+  
+ Yeah, I guess connect to each other. Okay.
+
+
+20:51:44 - Hiren Bavaskar:
+  
+ I harshit
